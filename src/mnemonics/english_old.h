@@ -1,6 +1,6 @@
 // Word list originally created as part of the Electrum project, Copyright (C) 2014 Thomas Voegtlin
 // 
-// Copyright (c) 2018, The BMNC Project
+// Copyright (c) 2018, The BMNC Project based on The Monero Project
 // 
 // All rights reserved.
 // 

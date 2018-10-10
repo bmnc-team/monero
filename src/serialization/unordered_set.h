@@ -1,4 +1,4 @@
-// Copyright (c) 2014-2017, The BMNC Project
+// Copyright (c) 2014-2017, The BMNC Project based on The Monero Project
 // 
 // All rights reserved.
 // 
