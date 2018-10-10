@@ -90,9 +90,9 @@ static const struct {
   time_t time;
 } mainnet_hard_forks[] = {
   // version 7 from the start of the blockchain
-  { 7, 1, 0, 1539200000 },
+  { 1, 1, 0, 1539200000 },
 };
-static const uint64_t mainnet_hard_fork_version_1_till = 0;
+static const uint64_t mainnet_hard_fork_version_1_till = 300000;
 static const struct {
   uint8_t version;
   uint64_t height;
@@ -100,9 +100,9 @@ static const struct {
   time_t time;
 } testnet_hard_forks[] = {
   // version 7 from the start of the blockchain
-  { 7, 1, 0, 1539200000 },
+  { 1, 1, 0, 1539200000 },
 };
-static const uint64_t testnet_hard_fork_version_1_till = 0;
+static const uint64_t testnet_hard_fork_version_1_till = 300000;
 static const struct {
   uint8_t version;
   uint64_t height;
@@ -110,7 +110,7 @@ static const struct {
   time_t time;
 } stagenet_hard_forks[] = {
   // version 7 from the start of the blockchain
-  { 7, 1, 0, 1539200000 },
+  { 1, 1, 0, 1539200000 },
 };
 
 //------------------------------------------------------------------
