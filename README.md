@@ -155,7 +155,7 @@ build the library binary manually. This can be done with the following command `
 
 Clone recursively to pull-in needed submodule(s):
 
-`$ git clone --recursive https://github.com/monero-project/monero`
+`$ git clone --recursive https://github.com/bmnc-project/monero`
 
 If you already have a repo cloned, initialize and update:
 
